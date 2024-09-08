@@ -1,0 +1,29 @@
+body{
+    .nav-div{
+        display: flex;
+
+        nav{
+            display: flex;
+            border: blue solid 2px;
+            width: 1366px;
+            align-items: center;
+            justify-content: center;
+
+            ul{
+                display: flex;
+
+                li {
+                    flex-direction: row;
+                    border: red solid 2px;
+                    margin-right: 15px;
+                }
+            }
+        }
+    }
+
+    .intro-section{
+        border: red solid 2px;
+        height: 600px;
+        width: 1366px;
+    }
+}
