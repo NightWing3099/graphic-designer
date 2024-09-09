@@ -7,11 +7,11 @@ function App() {
       <div className="nav-div">
         <nav>
           <ul>
-            <li>Home</li>
-            <li>About Me</li>
-            <li>Services</li>
-            <li>My Work</li>
-            <li>Contact me</li>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About Me</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">My Work</a></li>
+            <li><a href="#">Contact Me</a></li>
           </ul>
         </nav>
       </div>
