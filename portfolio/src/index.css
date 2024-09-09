@@ -1,0 +1,32 @@
+body .nav-div {
+  display: flex;
+}
+body .nav-div nav {
+  display: flex;
+  width: 1366px;
+  height: 65px;
+  background-color: black;
+  align-items: center;
+  justify-content: center;
+}
+body .nav-div nav ul {
+  display: flex;
+  padding-top: 10px;
+}
+body .nav-div nav ul li {
+  font-family: "Poppins", sans-serif;
+  flex-direction: row;
+  margin-right: 15px;
+  font-size: 19px;
+  font-weight: 500;
+}
+body .nav-div nav ul li a {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+body .intro-section {
+  border: red solid 2px;
+  height: 600px;
+  width: 1366px;
+}/*# sourceMappingURL=index.css.map */
