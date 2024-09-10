@@ -15,7 +15,13 @@ function App() {
           </ul>
         </nav>
       </div>
-      <div className="intro-section"></div>
+      <div className="intro-section">
+        <img  className="hero-image" width="1366" height="559" src='/images/pexels-tranmautritam-326503.jpg' alt="graphic design photo"/>
+      </div>
+      <div className="aboutme-section">
+        <div className="about-info"></div>
+        <div className="profile-pic"></div>
+      </div>
     </body>
   )
 }
