@@ -26,6 +26,10 @@ body .nav-div nav ul li a {
   cursor: pointer;
 }
 body .intro-section {
+  height: 561px;
+}
+body .aboutme-section {
   border: red solid 2px;
   height: 561px;
+  width: 1366px;
 }/*# sourceMappingURL=index.css.map */
