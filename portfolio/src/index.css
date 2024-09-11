@@ -32,4 +32,9 @@ body .aboutme-section {
   border: red solid 2px;
   height: 561px;
   width: 1366px;
+}
+body .aboutme-section .about-info {
+  border: blue solid 2px;
+  height: 400px;
+  width: 500px;
 }/*# sourceMappingURL=index.css.map */
