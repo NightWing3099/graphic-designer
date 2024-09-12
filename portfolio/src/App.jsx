@@ -19,8 +19,20 @@ function App() {
         <img  className="hero-image" width="1366" height="559" src='/images/pexels-tranmautritam-326503.jpg' alt="graphic design photo"/>
       </div>
       <div className="aboutme-section">
-        <div className="about-info"></div>
-        <div className="profile-pic"></div>
+        <h2>About Me</h2>
+        <div className="about-info">
+        <p>Hi, I'm [Designer’s Name], and I’ve been a graphic designer for the past 10 years. But for me, it’s never just been about making things look nice—it’s about creating designs that speak to people.</p>
+        <p>I use a little secret weapon called sales psychology to tap into what really catches attention and motivates action.</p> 
+        <p>Whether it’s picking the right colors that make someone feel something or designing layouts that lead the eye exactly where it needs to go, I focus on connecting with people in meaningful ways.</p>
+        <p>I’m passionate about helping brands not just look good but feel right f</p>
+        <p> My work is all about telling your story visually, while keeping your goals in mind—whether that’s getting someone to click "buy," follow along, or trust your message.</p>
+        <p>Let’s create something together that not only looks amazing but also makes people want to engage with what you have to offer.</p>
+        </div>
+        <div className="profile-pic">
+          <div clasName="image">
+            <h1>profile pic of client</h1>
+          </div>
+        </div>
       </div>
     </body>
   )
