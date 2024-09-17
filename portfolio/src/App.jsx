@@ -29,7 +29,7 @@ function App() {
           <p>Let’s create something together that not only looks amazing but also makes people want to engage with what you have to offer.</p>
           </div>
         <div className="profile-pic">
-          <div clasName="image">
+          <div className="image">
             <h1>profile pic of client</h1>
           </div>
         </div>
