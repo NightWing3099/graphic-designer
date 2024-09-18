@@ -35,9 +35,15 @@ body .aboutme-section {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  font-family: "Poppins", sans-serif;
 }
 body .aboutme-section h2 {
+  font-weight: 700;
+  font-size: 40px;
+  border: red solid 2px;
+  height: 35px;
   position: relative;
+  width: 150px;
 }
 body .aboutme-section .about-info {
   font-family: "", sans-serif;
@@ -49,6 +55,7 @@ body .aboutme-section .about-info {
 }
 body .aboutme-section .about-info p {
   line-height: 25px;
+  font-size: 15px;
 }
 body .aboutme-section .profile-pic {
   height: 555px;
