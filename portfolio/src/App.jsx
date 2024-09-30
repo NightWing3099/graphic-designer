@@ -37,6 +37,9 @@ function App() {
       </div>
       <div className="services-section">
         <h2 className="services-intro">Design Solutions to Grow Your Business</h2>
+        <div className="services-list">
+          
+        </div>
 
       </div>
     </body>
