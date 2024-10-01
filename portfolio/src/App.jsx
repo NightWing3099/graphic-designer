@@ -38,7 +38,19 @@ function App() {
       <div className="services-section">
         <h2 className="services-intro">Design Solutions to Grow Your Business</h2>
         <div className="services-list">
-          
+          <ul>
+            <li>Logo Design</li>
+            <li>Packaging Design</li>
+            <li>Social Media Graphics</li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
         </div>
 
       </div>
