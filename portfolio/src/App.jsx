@@ -42,14 +42,14 @@ function App() {
             <li>Logo Design</li>
             <li>Packaging Design</li>
             <li>Social Media Graphics</li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li>Illustration</li>
+            <li>Social Media Graphics</li>
+            <li>Sales Psychology Integration</li>
+            <li>Client-Centered Process</li>
+            <li>Responsiveness & User-Centric Approach</li>
+            <li>Understanding of Branding</li>
+            <li>High Attention to Detail</li>
+            <li>Sustainability and Ethics</li>
           </ul>
         </div>
 
