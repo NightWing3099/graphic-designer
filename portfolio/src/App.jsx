@@ -39,17 +39,20 @@ function App() {
         <h2 className="services-intro">Design Solutions to Grow Your Business</h2>
         <div className="services-list">
           <ul>
-          <li>Transformative Logo Design</li>
-          <li>Compelling Packaging Design</li>
-          <li>Attention-Grabbing Social Media Graphics</li>
-          <li>Sales Psychology Integration</li>
-          <li>Client-Centered Process for Results You’ll Love</li>
-          <li>Responsive, User-Focused Designs That Convert</li>
-          <li>Expert Understanding of Branding for Long-Term Growth</li>
-          <li>High Attention to Detail for Flawless Execution</li>
+            <li>Client-Centered Process for Results You’ll Love</li>
+            <li>Responsive, User-Focused Designs That Convert</li>
+            <li>Expert Understanding of Branding for Long-Term Growth</li>
+            <li>High Attention to Detail for Flawless Execution</li>
           </ul>
         </div>
-
+        <div className="services-list2">
+          <ul>
+            <li>Transformative Logo Design</li>
+            <li>Compelling Packaging Design</li>
+            <li>Attention-Grabbing Social Media Graphics</li>
+            <li>Sales Psychology Integration</li>
+          </ul>
+        </div>
       </div>
     </body>
   )

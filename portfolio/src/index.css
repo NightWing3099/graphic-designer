@@ -69,4 +69,7 @@ body .aboutme-section .profile-pic .image {
   margin-top: 100px;
   margin-left: 50px;
   border: orange solid 2px;
+}
+body .services-section {
+  border: green solid 2px;
 }/*# sourceMappingURL=index.css.map */
